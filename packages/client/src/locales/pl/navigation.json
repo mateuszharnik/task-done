@@ -1,0 +1,11 @@
+{
+  "navigationDrawer": {
+    "items": {
+      "USERNAME_ITEM_SUBTITLE": "username",
+      "PROFILE_ITEM_TITLE": "Profil",
+      "BOARDS_ITEM_TITLE": "Tablice",
+      "SUBSCRIPTION_ITEM_TITLE": "Subskrypcja",
+      "LOG_OUT_BUTTON_TEXT": "Wyloguj"
+    }
+  }
+}
