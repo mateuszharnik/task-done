@@ -1,0 +1,43 @@
+{
+  "TITLE": "Twoje tablice",
+  "emptyState": {
+    "TITLE": "Brak przestrzeni roboczych",
+    "DESCRIPTION": "Utwórz swoją pierwszą przestrzeń roboczą i zacznij zarządzać swoimi zadaniami."
+  },
+  "recentlyUsedBoards": {
+    "TITLE": "Ostatnio używane",
+    "EMPTY_STATE": "Brak tablic"
+  },
+  "favoriteBoards": {
+    "TITLE": "Ulubione",
+    "EMPTY_STATE": "Brak tablic"
+  },
+  "createBoardModal": {
+    "DESCRIPTION": "Utwórz nową tablicę"
+  },
+  "renameWorkspaceModal": {
+    "DESCRIPTION": "Zmień nazwę przestrzeni"
+  },
+  "deleteWorkspaceModal": {
+    "DESCRIPTION": "Usuń przestrzeń"
+  },
+  "createWorkspaceModal": {
+    "DESCRIPTION": "Utwórz nową przestrzeń"
+  },
+  "workspaceSettingsMenu": {
+    "RENAME_WORKSPACE_LIST_ITEM": "Zmień nazwę przestrzeni",
+    "DELETE_WORKSPACE_LIST_ITEM": "Usuń przestrzeń"
+  },
+  "boardColors": {
+    "LIGHT": "Jasny",
+    "DARK": "Ciemny",
+    "ORANGE": "Pomarańczowy",
+    "RED": "Czerwony",
+    "GREEN": "Zielony",
+    "BLUE": "Niebieski",
+    "PINK": "Różowy",
+    "PURPLE": "Fioletowy",
+    "YELLOW": "Żółty",
+    "TEAL": "Morski"
+  }
+}

@@ -1,0 +1,129 @@
+{
+  "firstNameField": {
+    "LABEL": "Imię",
+    "PLACEHOLDER": "Podaj swoje imię",
+    "schemaValidationMessages": {
+      "REQUIRED": "To pole jest wymagane",
+      "TOO_SHORT": "Imię jest za krótkie",
+      "TOO_LONG": "Imię jest za długie"
+    }
+  },
+  "lastNameField": {
+    "LABEL": "Nazwisko",
+    "PLACEHOLDER": "Podaj swoje nazwisko",
+    "schemaValidationMessages": {
+      "REQUIRED": "To pole jest wymagane",
+      "TOO_SHORT": "Nazwisko jest za krótkie",
+      "TOO_LONG": "Nazwisko jest za długie"
+    }
+  },
+  "genderField": {
+    "LABEL": "Płeć",
+    "PLACEHOLDER": "Podaj swoja płeć",
+    "schemaValidationMessages": {
+      "NOT_ALLOWED": "Nieprawidłowa wartość"
+    }
+  },
+  "usernameField": {
+    "LABEL": "Nazwa użytkownika",
+    "PLACEHOLDER": "Podaj nazwę użytkownika",
+    "schemaValidationMessages": {
+      "REQUIRED": "To pole jest wymagane",
+      "TOO_SHORT": "Nazwa użytkownika jest za krótka",
+      "TOO_LONG": "Nazwa użytkownika jest za długa"
+    }
+  },
+  "emailField": {
+    "LABEL": "Adres e-mail",
+    "PLACEHOLDER": "email@domain.com",
+    "schemaValidationMessages": {
+      "REQUIRED": "To pole jest wymagane",
+      "INVALID": "Adres e-mail jest niepoprawny"
+    }
+  },
+  "passwordField": {
+    "LABEL": "Hasło",
+    "PLACEHOLDER": "********",
+    "schemaValidationMessages": {
+      "REQUIRED": "To pole jest wymagane",
+      "TOO_SHORT": "Hasło musi mieć minimum 8 znaków",
+      "TOO_LONG": "Hasło nie może mieć więcej niż 32 znaki"
+    }
+  },
+  "confirmPasswordField": {
+    "LABEL": "Powtórz hasło",
+    "PLACEHOLDER": "********",
+    "schemaValidationMessages": {
+      "REQUIRED": "To pole jest wymagane",
+      "NOT_MATCH": "Hasła muszą być takie same"
+    }
+  },
+  "deleteAccountConfirmationField": {
+    "LABEL": "Nazwa użytkownika",
+    "PLACEHOLDER": "Wpisz \"{{username}}\" żeby usunąć",
+    "schemaValidationMessages": {
+      "REQUIRED": "To pole jest wymagane",
+      "NOT_MATCH": "Nazwa użytkownika jest nieprawidłowa"
+    }
+  },
+  "deleteWorkspaceConfirmationField": {
+    "LABEL": "Nazwa przestrzeni",
+    "PLACEHOLDER": "Wpisz \"{{workspace}}\" żeby usunąć",
+    "schemaValidationMessages": {
+      "REQUIRED": "To pole jest wymagane",
+      "NOT_MATCH": "Nazwa przestrzeni jest nieprawidłowa"
+    }
+  },
+  "deleteBoardConfirmationField": {
+    "LABEL": "Nazwa tablicy",
+    "PLACEHOLDER": "Wpisz \"{{boardName}}\" żeby usunąć",
+    "schemaValidationMessages": {
+      "REQUIRED": "To pole jest wymagane",
+      "NOT_MATCH": "Nazwa tablicy jest nieprawidłowa"
+    }
+  },
+  "boardNameField": {
+    "LABEL": "Nazwa tablicy",
+    "PLACEHOLDER": "Podaj nazwę tablicy",
+    "schemaValidationMessages": {
+      "REQUIRED": "To pole jest wymagane",
+      "TOO_SHORT": "Nazwa tablicy jest za krótka",
+      "TOO_LONG": "Nazwa tablicy jest za długa"
+    }
+  },
+  "boardDescriptionField": {
+    "LABEL": "Opis tablicy",
+    "PLACEHOLDER": "Podaj opis dla tablicy",
+    "schemaValidationMessages": {
+      "TOO_LONG": "Opis dla tablicy jest za długi"
+    }
+  },
+  "workspaceNameField": {
+    "LABEL": "Nazwa przestrzeni",
+    "PLACEHOLDER": "Podaj nazwę przestrzeni",
+    "schemaValidationMessages": {
+      "REQUIRED": "To pole jest wymagane",
+      "TOO_SHORT": "Nazwa przestrzeni jest za krótka",
+      "TOO_LONG": "Nazwa przestrzeni jest za długa"
+    }
+  },
+  "boardColorField": {
+    "LABEL": "Kolor tablicy",
+    "PLACEHOLDER": "Podaj kolor tablicy",
+    "schemaValidationMessages": {
+      "NOT_ALLOWED": "Nieprawidłowa wartość"
+    }
+  },
+  "boardVisibilityField": {
+    "LABEL": "Widoczność"
+  },
+  "listNameField": {
+    "LABEL": "Nazwa listy",
+    "PLACEHOLDER": "Podaj nazwę listy",
+    "schemaValidationMessages": {
+      "REQUIRED": "To pole jest wymagane",
+      "TOO_SHORT": "Nazwa listy jest za krótka",
+      "TOO_LONG": "Nazwa listy jest za długa"
+    }
+  }
+}

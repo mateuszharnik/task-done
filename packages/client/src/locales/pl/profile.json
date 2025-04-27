@@ -1,0 +1,24 @@
+{
+  "TITLE": "Profil użytkownika",
+  "DESCRIPTION": "Tutaj możesz zaktualizować swoje dane, ustawić zdjęcie profilowe lub usunąć swoje konto.",
+  "BACK_TO_BOARDS_LINK": "Wróć do swoich tablic",
+  "userInfoForm": {
+    "FORM_TITLE": "Informacje o Tobie",
+    "FORM_DESCRIPTION": "Zaktualizuj swoje imię i nazwisko."
+  },
+  "userPasswordForm": {
+    "FORM_TITLE": "Hasło",
+    "FORM_DESCRIPTION": "Zmień swoje hasło."
+  },
+  "userEmailForm": {
+    "FORM_TITLE": "Adres e-mail",
+    "FORM_DESCRIPTION": "Zamień swój adres e-mail."
+  },
+  "deleteAccount": {
+    "FORM_TITLE": "Usuń konto",
+    "FORM_DESCRIPTION": "Uwaga tej operacji nie można cofnąć.",
+    "confirmationModal": {
+      "DESCRIPTION": "Usuń konto"
+    }
+  }
+}

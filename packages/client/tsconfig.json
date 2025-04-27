@@ -1,0 +1,40 @@
+{
+  "include": ["env.d.ts", "src/**/*.ts", "src/**/*.js", "src/**/*.vue"],
+  "exclude": ["node_modules"],
+  "compilerOptions": {
+    "noEmit": true,
+    "module": "ESNext",
+    "moduleResolution": "Bundler",
+    "resolveJsonModule": true,
+    "allowImportingTsExtensions": true,
+    "moduleDetection": "force",
+    "jsx": "preserve",
+    "jsxImportSource": "vue",
+    "noImplicitThis": true,
+    "noImplicitAny": true,
+    "strict": true,
+    "verbatimModuleSyntax": true,
+    "target": "ESNext",
+    "useDefineForClassFields": true,
+    "esModuleInterop": true,
+    "forceConsistentCasingInFileNames": true,
+    "skipLibCheck": true,
+    "lib": ["ES2020", "DOM", "DOM.Iterable"],
+    "baseUrl": "./",
+    "paths": {
+      "@app": ["./src/App/index.ts"],
+      "@router": ["./src/router/index.ts"],
+      "@components/*": ["./src/components/*"],
+      "@contexts/*": ["./src/contexts/*"],
+      "@views/*": ["./src/views/*"],
+      "@constants/*": ["./src/constants/*"],
+      "@providers/*": ["./src/providers/*"],
+      "@composables/*": ["./src/composables/*"],
+      "@services/*": ["./src/services/*"],
+      "@layouts/*": ["./src/layouts/*"],
+      "@utils/*": ["./src/utils/*"],
+      "@assets/*": ["./src/assets/*"],
+      "@locales": ["./src/locales/index.ts"]
+    }
+  }
+}

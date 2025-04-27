@@ -1,0 +1,28 @@
+{
+  "searchTasks": "Szukaj zadań",
+  "updateBoardInfoModal": {
+    "DESCRIPTION": "Tutaj możesz zaktualizować informacje o tablicy oraz jej widoczności"
+  },
+  "updateBoardColorModal": {
+    "DESCRIPTION": "Tutaj możesz zmienić kolor dla tablicy"
+  },
+  "deleteBoardModal": {
+    "DESCRIPTION": "Ta czynność jest nieodwracalna i usunie wszystko co związane z tą tablicą"
+  },
+  "createListButton": {
+    "ADD_LIST_BUTTON_TEXT": "Dodaj listę"
+  },
+  "settingsMenu": {
+    "tabNames": {
+      "MENU": "Menu",
+      "ABOUT_BOARD": "O tablicy",
+      "BOARD_LAST_ACTIVITY": "Aktywność",
+      "BOARD_COLOR": "Kolor tablicy",
+      "BOARD_LABELS": "Etykiety",
+      "BOARD_MEMBERS": "Członkowie tablicy",
+      "DELETE_BOARD": "Usuń tablice",
+      "CREATE_LABELS": "Utwórz etykietę",
+      "EDIT_LABELS": "Edytuj etykietę"
+    }
+  }
+}
